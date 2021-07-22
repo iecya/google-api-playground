@@ -1,0 +1,10 @@
+**/*.swp
+*/.nrepl-port
+*/.cpcache
+*/.eastwood
+*/target
+/.settings
+/.project
+/.classpath
+/.idea
+*.iml
