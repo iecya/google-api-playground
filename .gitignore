@@ -1,6 +1,6 @@
 **/*.swp
-*/.nrepl-port
-*/.cpcache
+/.nrepl-port
+/.cpcache
 */.eastwood
 */target
 /.settings
